@@ -1,4 +1,4 @@
-# Hello Fellow Homo-Sapien(or an AI bot if applicable) 🙋‍♀️:
+# Hello Fellow Homo-Sapiens 🙋‍♀️:
 
 ## 🌟 Who am I:
 
