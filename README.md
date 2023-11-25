@@ -29,8 +29,8 @@
 
 ### 🚀 My Coding Journey
 As a CSE student, I've embarked on a journey full of challenges and learning. Here's a glimpse into my coding adventures:
-- 🏆 Achievements: [List any coding competition achievements or notable project accomplishments]
-- 📚 Currently Learning: [Mention any specific technologies, languages, or frameworks you're currently exploring]
+- 🏆 Achievements: Solved 500+ problems on Leetcode, Semi finalist at Tally CodeBrewers.
+- 📚 Employment Status: Actively looking for Software developer roles.
 - 🤝 Collaboration: I'm always open to collaborating on innovative projects. Let's connect!
 
 ### 🔝 Top Contributed Repo
