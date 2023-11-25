@@ -1,5 +1,6 @@
-### Hi there 👋
-# 💫 About Me:
+### Hello Fellow Homo-Sapien(or an AI bot if applicable) 🙋‍♀️:
+
+# 🌟 Who am I:
 
 👨‍💻 I am an undergraduate in Computer Science and Engineering <br>
 🌱 I’m passionate about coding and problem-solving <br>
