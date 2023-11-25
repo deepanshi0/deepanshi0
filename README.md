@@ -1,43 +1,30 @@
 ### Hi there 👋
 # 💫 About Me:
 
-
-👨‍💻:  I am a CSE undergrad <br>🌱 I’m a MERN Stack web developer <br>⚡️ Fun fact - I made several projects and am also a competitive programmer, active on various coding platforms
+👨‍💻:  I am an undergraduate in Computer Science and Engineering <br>🌱 I’m passionate about coding and problem-solving <br>⚡ Fun fact: I love tackling challenging coding problems and am active on various coding platforms
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ayush-0110)
+![](https://komarev.com/ghpvc/?username=deepanshi0)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-tiwari-7b2514220) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ayush-0110) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FA7343.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/ayush_0110/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshi-singh-925661228) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/deepanshi0) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FAF9F6.svg?logo=leetcode&logoColor=black)](https://leetcode.com/deepanshi_singh25/)
 
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- You can add your tech stack here if you wish -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush-0110&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayush-0110&theme=radical&hide_border=true)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayush-0110&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=deepanshi0&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deepanshi0&theme=radical&hide_border=true)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayush-0110&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=deepanshi0&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- The comment block below can be customized or removed as per your need -->
 <!--
-ayush-0110/ayush-0110 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+**deepanshi0/deepanshi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,5 +35,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡️ Fun fact: ...
+- ⚡ Fun fact: ...
 -->
